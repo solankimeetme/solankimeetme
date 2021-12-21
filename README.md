@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunil Solanki</h1>
+<p align="left"> 👋 Hi, I am a full-stack web & app developer specializing in back-end development with python, php and javascript frameworks (django, node.js, Laravel), especially for blockchain based applications. I am also proficient with front-end javascript frameworks like Angular, React.js and Vue.js. I have over 5+ years of experience in these fields.
+
+✨Blockchain Development✨ • Crypto Coins Exchange Development • ICO Development with Created Token ( Coin ) • Smart-Contracts (Solidity, Truffle framework) • Build POW, POS , MN and Stable coins • Develop Stable coins ( USDT, TrueUSD, USDX etc.) • Token development (ERC20, ERC223, ERC721, ERC 1155) • NFT (Non Fungible Token) Marketplace • Cryptocurrency Wallet Development for Linux, windows, Mac, Web. • Ethereum based Dapps development • Sidechain/State channels development • Assembly code blocks integration
+
+💞️Web development💞️ • Javascript : Node.js, Express, React.Js, Angular.js, Vue.Js • Php : Laravel, Codeignitor • Python : Django, Flask • Ecommerce, Wordpress, Shopify • Database : Mysql, Mongodb, PostresSql, Sqlite • Docker, Git • Cloud : AWS, Azure, Google cloud • Web Scrapping, Python Selenium
+
+🌱Mobile development🌱 • React Native, Ionic framework
+
+Thanks for visiting my profile. </p>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solankimeetme&label=Profile%20views&color=0e75b6&style=flat" alt="solankimeetme" /> </p>
@@ -16,6 +25,7 @@
 - 📝 I regularly write articles on [https://www.exultcybersolution.com/blog](https://www.exultcybersolution.com/blog)
 
 - 📫 How to reach me **solankimeetme@gmail.com**
+- 💬 Skype: live:exultcybersolution
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
